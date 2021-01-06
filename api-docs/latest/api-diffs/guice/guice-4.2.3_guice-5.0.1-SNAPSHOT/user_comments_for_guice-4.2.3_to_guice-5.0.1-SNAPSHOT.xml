@@ -297,6 +297,18 @@
   </text>
 </comment>
 <comment>
+  <identifier id="com.google.inject.internal.KotlinSupport"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.inject.internal.KotlinSupportInterface"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
   <identifier id="com.google.inject.internal.LinkedBindingImpl"/>
   <text>
     InsertCommentsHere

@@ -7,6 +7,8 @@ MISSING @SINCE TAG: com.google.inject.internal.GenericErrorDetail Class
 MISSING @SINCE TAG: com.google.inject.internal.GuiceInternal Class
 MISSING @SINCE TAG: com.google.inject.internal.InternalFlags.BytecodeGenOption Class
 MISSING @SINCE TAG: com.google.inject.internal.InternalFlags.ColorizeOption Class
+MISSING @SINCE TAG: com.google.inject.internal.KotlinSupport Class
+MISSING @SINCE TAG: com.google.inject.internal.KotlinSupportInterface Interface
 MISSING @SINCE TAG: com.google.inject.RestrictedBindingSource Interface
 MISSING @SINCE TAG: com.google.inject.RestrictedBindingSource.Permit Interface
 MISSING @SINCE TAG: com.google.inject.RestrictedBindingSource.RestrictionLevel Class
