@@ -27,6 +27,7 @@ MISSING @SINCE TAG: com.google.inject.spi.InjectionPoint Method forConstructorOf
 MISSING @SINCE TAG: com.google.inject.spi.InjectionPoint Method getAnnotations(java.lang.reflect.Field)
 OK: com.google.inject.spi.Message Method getErrorDetail()
 NO DOC BLOCK: com.google.inject.internal.ProviderMethodsModule Method getScanner()
+MISSING @SINCE TAG: com.google.inject.internal.Nullability Method hasNullableAnnotation(java.lang.annotation.Annotation[])
 NO DOC BLOCK: com.google.inject.internal.InternalFlags Method isBytecodeGenEnabled()
 MISSING @SINCE TAG: com.google.inject.internal.BytecodeGen Method isCircularProxy(java.lang.Object)
 MISSING @SINCE TAG: com.google.inject.internal.ProviderMethodsModule Method isScanningBuiltInProvidesMethods()

@@ -381,6 +381,24 @@
   </text>
 </comment>
 <comment>
+  <identifier id="com.google.inject.internal.Nullability"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.inject.internal.Nullability.allowsNull_removed(java.lang.annotation.Annotation[])"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.inject.internal.Nullability.hasNullableAnnotation_added(java.lang.annotation.Annotation[])"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
   <identifier id="com.google.inject.internal.ProviderMethodsModule"/>
   <text>
     InsertCommentsHere
