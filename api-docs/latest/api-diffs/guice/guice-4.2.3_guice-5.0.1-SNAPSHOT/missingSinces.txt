@@ -16,6 +16,7 @@ OK: com.google.inject.spi.Message Constructor (com.google.inject.internal.ErrorI
 OK: com.google.inject.spi.Message Constructor (com.google.inject.internal.GuiceInternal, com.google.inject.internal.ErrorId, com.google.inject.spi.ErrorDetail)
 NO DOC BLOCK: com.google.inject.internal.Errors Method addMessage(com.google.inject.internal.ErrorId, java.lang.String, java.lang.Object[])
 NO DOC BLOCK: com.google.inject.internal.Errors Method aopDisabled(com.google.inject.spi.InterceptorBinding)
+NO DOC BLOCK: com.google.inject.internal.Errors Method atTargetIsMissingParameter(java.lang.annotation.Annotation, java.lang.String, java.lang.Class)
 NO DOC BLOCK: com.google.inject.internal.Messages Method bold(java.lang.String)
 MISSING @SINCE TAG: com.google.inject.internal.Messages Method create(com.google.inject.internal.ErrorId, java.lang.String, java.lang.Object[])
 MISSING @SINCE TAG: com.google.inject.internal.Messages Method create(com.google.inject.internal.ErrorId, java.lang.Throwable, java.lang.String, java.lang.Object[])

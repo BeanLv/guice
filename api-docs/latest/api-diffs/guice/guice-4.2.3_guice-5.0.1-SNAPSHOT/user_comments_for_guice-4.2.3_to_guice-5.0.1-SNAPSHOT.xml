@@ -189,6 +189,12 @@
   </text>
 </comment>
 <comment>
+  <identifier id="com.google.inject.internal.Errors.atTargetIsMissingParameter_added(java.lang.annotation.Annotation, java.lang.String, java.lang.Class)"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
   <identifier id="com.google.inject.internal.Errors.cannotInjectNonVoidMethod_removed(java.lang.reflect.Method)"/>
   <text>
     InsertCommentsHere
